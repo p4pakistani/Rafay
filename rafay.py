@@ -1,8 +1,8 @@
 #!/usr/bin/python2
 #coding=utf-8
-#Codded By Rana Badshah
+#Codded By Jutt Badshah
 #Editing My Script Will Not Make You A Coder
-#Facebook : Rana Badshah
+#Facebook : Jutt Badshah
 #Whatsapp : +923481299584
 #Pakistan Cyber Expert
 #Alone Coder 
@@ -81,14 +81,14 @@ def jalan(z):
 		time.sleep(0.1)
 ##### INTRO #####
 def logo():
-    os.system('echo -e "\n\n\033[1;92m    Rana Badshah
-Rana Badshah
-Rana Badshah
-Rana Badshah
-Rana Badshah
-Rana Badshah
-Rana Badshah
-Rana Badshah         S*S\n\033[1;91m-----------------------------------------------\n\033[1;97mâž£ Author : Rana BadshahX ?????\n\033[1;97mâž£ Github : https://github.com/p4pakistani\n\033[1;97mâž£ Fb Page: Rana Badshah Official\n\033[1;91m-----------------------------------------------" | lolcat')
+    os.system('echo -e "\n\n\033[1;92m    Jutt Badshah
+Jutt Badshah
+Jutt Badshah
+Jutt Badshah
+Jutt Badshah
+Jutt Badshah
+Jutt Badshah
+Jutt Badshah         S*S\n\033[1;91m-----------------------------------------------\n\033[1;97mâž£ Author : Jutt BadshahX ?????\n\033[1;97mâž£ Github : https://github.com/p4pakistani\n\033[1;97mâž£ Fb Page: Jutt Badshah Official\n\033[1;91m-----------------------------------------------" | lolcat')
 def tik():
 	titik = ['.   ','..  ','... ']
 	for o in titik:
@@ -217,7 +217,7 @@ def login():
      	
 		
 		jalan(' \033[1;97m   âœ§ \033[1;97mWarning: \033[1;97mUse a New Account To Login' )
-		jalan(' \033[1;97m   âœ§ \033[1;97mðŸ‘‰ : \033[1;97mRana King Of Facebook' ) 
+		jalan(' \033[1;97m   âœ§ \033[1;97mðŸ‘‰ : \033[1;97mJutt King Of Facebook' ) 
 		
 		print('	' )
 		print('      \033[1;97m      âœ§ \x1b[1;97mLogin With Facebook\x1b[1;97m âœ§')
